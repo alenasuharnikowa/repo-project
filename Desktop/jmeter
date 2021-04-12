@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: http:,Thread Group 1-1,text,false,,801,0,1,1,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: http:,Thread Group 1-1,text,false,,801,0,1,1,null,0,0,0
+0,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: unknown protocol: http:,Thread Group 1-1,text,false,,801,0,1,1,null,0,0,0

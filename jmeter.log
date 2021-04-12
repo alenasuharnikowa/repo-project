@@ -1,0 +1,51 @@
+2021-04-11 20:13:46,402 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-04-11 20:13:46,438 INFO o.a.j.JMeter: Loading user properties from: /usr/local/Cellar/jmeter/5.4.1/libexec/bin/user.properties
+2021-04-11 20:13:46,439 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.4.1/libexec/bin/system.properties
+2021-04-11 20:13:46,450 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: Version 5.4.1
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: java.version=15.0.1
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: os.name=Mac OS X
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: os.arch=x86_64
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: os.version=10.15.7
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-04-11 20:13:46,451 INFO o.a.j.JMeter: java.awt.headless=null
+2021-04-11 20:13:46,452 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-04-11 20:13:46,452 INFO o.a.j.JMeter: Available Processors =8
+2021-04-11 20:13:46,466 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-04-11 20:13:46,466 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-04-11 20:13:46,467 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.4.1/libexec
+2021-04-11 20:13:46,467 INFO o.a.j.JMeter: user.dir  =/Users/alena/Documents/test-project/project_1
+2021-04-11 20:13:46,467 INFO o.a.j.JMeter: PWD       =/Users/alena/Documents/test-project/project_1
+2021-04-11 20:13:46,469 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: Alenas-MacBook-Pro.local FullName: localhost
+2021-04-11 20:13:47,080 INFO o.a.j.JMeter: Setting LAF to: laf:com.apple.laf.AquaLookAndFeel
+2021-04-11 20:13:48,762 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-04-11 20:13:50,282 INFO o.j.r.JARSourceHTTP: Found cached repo
+2021-04-11 20:13:50,470 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-cmd=2.2, jpgc-graphs-composite=2.0, jpgc-casutg=2.9, jpgc-graphs-dist=2.0, jpgc-filterresults=2.2, jpgc-ggl=2.0, jpgc-graphs-vs=2.0, jpgc-plugins-manager=1.6, jpgc-synthesis=2.2, jmeter-core=5.4.1, jmeter-ftp=5.4.1, jmeter-http=5.4.1, jmeter-jdbc=5.4.1, jmeter-jms=5.4.1, jmeter-junit=5.4.1, jmeter-java=5.4.1, jmeter-ldap=5.4.1, jmeter-mail=5.4.1, jmeter-mongodb=5.4.1, jmeter-native=5.4.1, jmeter-tcp=5.4.1, jmeter-components=5.4.1]
+2021-04-11 20:13:51,616 WARN o.a.j.g.ObjectTableModel: Header count=13 but classes count=11
+2021-04-11 20:13:51,617 WARN o.a.j.g.ObjectTableModel: Header count=13 but writeFunctor count=11
+2021-04-11 20:15:17,867 INFO o.a.j.s.FileServer: Default base='/Users/alena/Documents/test-project/project_1'
+2021-04-11 20:15:17,872 INFO o.a.j.g.a.Load: Loading file: /Users/alena/Desktop/jmeter/test-it-copy.jmx
+2021-04-11 20:15:17,872 INFO o.a.j.s.FileServer: Set new base='/Users/alena/Desktop/jmeter'
+2021-04-11 20:15:18,043 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-04-11 20:15:18,053 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-04-11 20:15:18,055 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-04-11 20:15:18,056 INFO o.a.j.s.SaveService: Loading file: /Users/alena/Desktop/jmeter/test-it-copy.jmx
+2021-04-11 20:15:18,262 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-11 20:15:18,263 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-11 20:15:18,263 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-11 20:15:18,263 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2021-04-11 20:15:18,263 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2021-04-11 20:15:18,263 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2021-04-11 20:15:18,374 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-04-11 20:15:18,375 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-04-11 20:15:18,506 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-04-11 20:15:18,506 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-04-11 20:15:18,506 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-04-11 20:15:18,506 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-04-11 20:15:18,699 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-04-11 20:15:18,754 WARN o.a.j.t.g.GenericTestBeanCustomizer: kg.apc.jmeter.listener.GraphsGeneratorListener#graphWidth(int) has a DEFAULT of class java.lang.String
+2021-04-11 20:15:18,755 WARN o.a.j.t.g.GenericTestBeanCustomizer: kg.apc.jmeter.listener.GraphsGeneratorListener#graphHeight(int) has a DEFAULT of class java.lang.String
+2021-04-11 20:15:18,943 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-04-11 20:15:19,099 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2021-04-11 20:15:19,229 INFO o.a.j.s.FileServer: Set new base='/Users/alena/Desktop/jmeter'
